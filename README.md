@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cjwurst
-- 👀 I’m interested in formal grammars, SDF rendering, procedural content generation, game engine design, and augmentative and alternative communication.
-- 🌱 I’m currently learning software framework best practices by process of elimination.
-- 💞️ I’m looking to collaborate on small (<1 month) hobby projects related to any of the above!
+- 👀 I’m interested in formal grammars, SDF rendering, procedural content generation, and alternative communication.
 - 📫 How to reach me: cwurst@uoregon.edu
 
 <!---
